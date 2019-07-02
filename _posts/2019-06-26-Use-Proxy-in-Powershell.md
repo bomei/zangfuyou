@@ -7,7 +7,7 @@ categories: blog
 tags: [code, shell]
 ---
 
-# 我的Powershell终于用上代理了！
+### 我的Powershell终于用上代理了！
 
 在Ubuntu中我`export all_proxy={proxy}`就可以使用代理了，但是在windows下，无论是powershell还是cmd这样子都不管用，终于找到了下面的powershell代码解决了这个便秘的问题。代码来自于[使用PowerShell Profile快速设置 HTTP 代理](https://async.sh/2018/07/30/quick-setup-http-proxy-using-powershell-profile/)。
 
