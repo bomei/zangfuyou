@@ -13,7 +13,7 @@
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
       <a href="{{ file.path }}" title="{{ filename }}">
         <img src="{{ file.path }}" alt="{{ filename }}" title="{{ filename }}" />
-        <span>{{ filename }}</span>
+        <!-- <span>{{ filename }}</span> -->
       </a>
       {% endif %}
     {% endif %}
