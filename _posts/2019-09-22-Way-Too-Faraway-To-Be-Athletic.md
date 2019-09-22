@@ -19,8 +19,10 @@ tags: [body]
 
 今天的体重真的吓到我了，从今天开始记录减肥的过程。在生日之前减到69公斤！
 
-![pound](/assets/images/athlete/20190922/20190922-pound.jpg){:width="300"}
-![run](/assets/images/athlete/20190922/20190922-run.png){:width="300"}
+{%include image-gallery.html folder="/assets/images/athlete/20190922" %}
+
+<!-- ![pound](/assets/images/athlete/20190922/20190922-pound.jpg){:width="300"}
+![run](/assets/images/athlete/20190922/20190922-run.png){:width="300"} -->
 
 
 
